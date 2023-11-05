@@ -1,0 +1,36 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "driver_gpio.h": "c",
+            "fsl_iomuxc.h": "c",
+            "stdio.h": "c",
+            "stdlib.h": "c",
+            "string.h": "c",
+            "device_lcd.h": "c",
+            "common_front.h": "c",
+            "driver_tft_lcd.h": "c",
+            "common_headfile.h": "c",
+            "mcimx6y2.h": "c",
+            "common_typedef.h": "c",
+            "driver_rtc_clock.h": "c",
+            "text.h": "c",
+            "test_device.h": "c",
+            "device_ap3216c.h": "c",
+            "driver_delay.h": "c",
+            "buzzer.h": "c",
+            "common_clock.h": "c",
+            "driver_spi.h": "c",
+            "device_icm20608.h": "c",
+            "driver_exit.h": "c",
+            "printf.h": "c",
+            "driver_iic.h": "c",
+            "device_tft_gt9147.h": "c",
+            "driver_pwm.h": "c"
+        }
+    }
+}
